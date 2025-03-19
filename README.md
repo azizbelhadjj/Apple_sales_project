@@ -125,7 +125,7 @@ This project primarily focuses on developing and showcasing the following SQL sk
 ## Conclusion
 
 By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
-Provided here are my answers for all the questions mentioned above. I found this project on Youtube so I took the questions and found alternative free datasets on Github and I wrote the queries by myself so I can learn how to apply advanced SQL querying to answer business questions. 
+I found this project on Youtube so I took the questions and found alternative free datasets on Github and I wrote the queries by myself so I can learn how to apply advanced SQL querying to answer business questions. Provided here are my answers for all the questions mentioned above.
 
 
 All credits for this project go to Zero Analyst Author: Najir
